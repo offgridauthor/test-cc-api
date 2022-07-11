@@ -1,0 +1,13 @@
+{
+  "autotask": {
+    "autotaskId": "f3faa066-8a1f-44d5-ab8d-ec4790693d95",
+    "name": "Copy Vault Value",
+    "paused": false,
+    "trigger": {
+      "type": "webhook",
+      "token": "J8kUagraQ4pKpvqSTAKtUq"
+    },
+    "relayerId": "a6e822b5-0a3e-4940-800a-fcef728f413f",
+    "encodedZippedCode": "UEsDBAoAAAAAAK2t61Rjjz/OzAIAAMwCAAAIAAAAaW5kZXguanNjb25zdCB7IERlZmVuZGVyUmVsYXlTaWduZXIsIERlZmVuZGVyUmVsYXlQcm92aWRlciB9ID0gcmVxdWlyZSgnZGVmZW5kZXItcmVsYXktY2xpZW50L2xpYi9ldGhlcnMnKTsKY29uc3QgZXRoZXJzID0gcmVxdWlyZSgnZXRoZXJzJyk7Cgpjb25zdCB7TnVtYmVyVmF1bHQsIFZhdWx0Q29weWNhdH0gPSByZXF1aXJlKCcuLi9kZXBsb3kuanNvbicpOwpjb25zdCB7YWJpfSA9IHJlcXVpcmUoJy4uL2FydGlmYWN0cy9jb250cmFjdHMvVmF1bHRDb3B5Y2F0LnNvbC9WYXVsdENvcHljYXQuanNvbicpCgpleHBvcnRzLmhhbmRsZXIgPSBhc3luYyBmdW5jdGlvbihldmVudCkgewogIGNvbnN0IHByb3ZpZGVyID0gbmV3IERlZmVuZGVyUmVsYXlQcm92aWRlcihldmVudCk7CiAgY29uc3Qgc2lnbmVyID0gbmV3IERlZmVuZGVyUmVsYXlTaWduZXIoZXZlbnQsIHByb3ZpZGVyLCB7IHNwZWVkOiAnZmFzdCcgfSk7CiAgY29uc3QgY29weWNhdCA9IG5ldyBldGhlcnMuQ29udHJhY3QoVmF1bHRDb3B5Y2F0LCBhYmksIHNpZ25lcik7CiAgY29uc3QgcGF5bG9hZCA9IGV2ZW50LnJlcXVlc3QuYm9keTsKICBjb25zdCBtYXRjaFJlYXNvbnMgPSBwYXlsb2FkLm1hdGNoUmVhc29uczsKICBjb25zb2xlLmxvZyhtYXRjaFJlYXNvbnNbMF0pCiAgY29uc3QgbmV3TnVtYmVyID0gbWF0Y2hSZWFzb25zWzBdLnBhcmFtcy5fbnVtOwogIGNvcHljYXQuc3RvcmVOdW0obmV3TnVtYmVyKQp9O1BLAQIUAAoAAAAAAK2t61Rjjz/OzAIAAMwCAAAIAAAAAAAAAAAAAAAAAAAAAABpbmRleC5qc1BLBQYAAAAAAQABADYAAADyAgAAAAA="
+  }
+}

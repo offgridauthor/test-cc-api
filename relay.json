@@ -1,0 +1,13 @@
+{
+  "relay": {
+    "relayerId": "a6e822b5-0a3e-4940-800a-fcef728f413f",
+    "name": "Demo Relayer",
+    "address": "0xa68b89c5332525c2de52f24d922227de9fec572a",
+    "network": "rinkeby",
+    "createdAt": "2022-07-11T20:16:10.583Z",
+    "paused": false,
+    "policies": {},
+    "minBalance": "100000000000000000",
+    "pendingTxCost": "0"
+  }
+}
